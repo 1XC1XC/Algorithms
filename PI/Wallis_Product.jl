@@ -1,3 +1,4 @@
+# https://en.wikipedia.org/wiki/Wallis_product
 using Printf
 setprecision(50)
 
