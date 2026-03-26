@@ -1,12 +1,5 @@
-using Printf
 # https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80
-
-
-# 3 - 5 - 7 - 9
-#
-# 1 + 2 = 3 
-# 3 + 2 = 5 
-# 5 + 2 = 7
+using Printf
 setprecision(50)
 
 start = time_ns()
